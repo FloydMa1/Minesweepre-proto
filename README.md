@@ -5,7 +5,7 @@ and for me to learn some more things in javascript.
 
 ## Features
 
-- [Cell Algorithems](link)
+- [Cell Algorithems](https://github.com/FloydMa1/Minesweepre-proto/blob/master/cell.js)
 - [When the game gets made](link)
 
 ## Software Anaylse 
