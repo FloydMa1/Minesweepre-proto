@@ -1,18 +1,24 @@
-# Minesweepre-proto
+# Minesweeper-Prototype
 
-<h2>Portfolio</h2>
+This game was made to discover how the original minesweeper game algorithms were made,
+and for me to learn some more things in javascript.
 
-http://22355.hosts.ma-cloud.nl/
+## Features
 
+- [Awesome Algoritme](link)
+- [Specifieke Mechanic](link)
+- [Iets unieks waar je trots op bent binnen de project](link)
 
-<h3>Floyd Lehman 
-GD3A</h3>
+## Software Anaylse 
+Welke software heb je voor deze proefopdracht onderzocht? En waarom heb je uiteindelijk gekozen voor de gekozen Software. Benoem hier specifieke argumenten.
 
-<h3>Wat dit project inhoud</h3>
-Dit spel is een namaak van het bekende spel Minesweeper.
-Ik heb in dit project geprobeerd de ingewikkelde algoritmes na te bootsen en toe te voegen.
-Ik heb dit in Javascript gemaakt.
+## Leerdoelen 
+Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
+- Het Flood-Fill algoritme snappen en toepassen
+- Het ontwikkelen van een generieke FSM.
+- etc. etc.
 
-<h2>Speelbare Demo</h2>
+## Portfolio
+Click below to go to my portfolio.
 
-http://22355.hosts.ma-cloud.nl/bewijzenmap/ms/
+- [The Guide To Game Design](http://22355.hosts.ma-cloud.nl/)
