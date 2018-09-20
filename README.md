@@ -17,6 +17,9 @@ What i wanted to learn making this project
 - Making it in javascript
 - making the algotihem reusable
 
+## Try the game below
+- [The Game](http://22355.hosts.ma-cloud.nl/bewijzenmap/ms/)
+
 ## Portfolio
 Click below to go to my portfolio.
 
