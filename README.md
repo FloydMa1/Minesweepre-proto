@@ -6,7 +6,7 @@ and for me to learn some more things in javascript.
 ## Features
 
 - [Cell Algorithems](https://github.com/FloydMa1/Minesweepre-proto/blob/master/cell.js)
-- [When the game gets made](link)
+- [When the game gets made](https://github.com/FloydMa1/Minesweepre-proto/blob/master/draw.js)
 
 ## Software Anaylse 
 i made my minesweeper prototype in javascript so i didn't have to do many research for the software
