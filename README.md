@@ -23,4 +23,4 @@ What i wanted to learn making this project
 ## Portfolio
 Click below to go to my portfolio.
 
-- [Portfolio](http://22355.hosts.ma-cloud.nl/)
+- [Portfolio](http://floydlehman.me/)
